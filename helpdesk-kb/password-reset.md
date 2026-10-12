@@ -16,3 +16,12 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+## Password Reset Tips
+
+If you forget your password, use the password reset option on the login page.
+
+Check your email for the password reset link.
+
+Create a strong password with letters, numbers, and symbols.
+
+If you still cannot reset your password, contact the Help Desk.
