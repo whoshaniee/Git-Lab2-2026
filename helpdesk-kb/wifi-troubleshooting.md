@@ -25,3 +25,6 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+## Slow Wireless Connections
+
+If your Wi-Fi connection is slow, try restarting your router. Move closer to the router to improve the signal. Check if too many devices are connected to the network. You can also restart your computer and test your internet connection again.
